@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Portafolio/static/css/main.64680b34.chunk.css",
-    "main.js": "/Portafolio/static/js/main.21f4cdf0.chunk.js",
-    "main.js.map": "/Portafolio/static/js/main.21f4cdf0.chunk.js.map",
+    "main.css": "/Portafolio/static/css/main.a6d1ed8b.chunk.css",
+    "main.js": "/Portafolio/static/js/main.c5fdbb6f.chunk.js",
+    "main.js.map": "/Portafolio/static/js/main.c5fdbb6f.chunk.js.map",
     "runtime-main.js": "/Portafolio/static/js/runtime-main.47324fb7.js",
     "runtime-main.js.map": "/Portafolio/static/js/runtime-main.47324fb7.js.map",
     "static/css/2.9f9efda8.chunk.css": "/Portafolio/static/css/2.9f9efda8.chunk.css",
-    "static/js/2.a6c75c9f.chunk.js": "/Portafolio/static/js/2.a6c75c9f.chunk.js",
-    "static/js/2.a6c75c9f.chunk.js.map": "/Portafolio/static/js/2.a6c75c9f.chunk.js.map",
+    "static/js/2.61510287.chunk.js": "/Portafolio/static/js/2.61510287.chunk.js",
+    "static/js/2.61510287.chunk.js.map": "/Portafolio/static/js/2.61510287.chunk.js.map",
     "index.html": "/Portafolio/index.html",
-    "precache-manifest.eb1102c9f4d7de990b594dcd38fbd1bd.js": "/Portafolio/precache-manifest.eb1102c9f4d7de990b594dcd38fbd1bd.js",
+    "precache-manifest.4a53fbdf366e28ee1da48338cf782e09.js": "/Portafolio/precache-manifest.4a53fbdf366e28ee1da48338cf782e09.js",
     "service-worker.js": "/Portafolio/service-worker.js",
     "static/css/2.9f9efda8.chunk.css.map": "/Portafolio/static/css/2.9f9efda8.chunk.css.map",
-    "static/css/main.64680b34.chunk.css.map": "/Portafolio/static/css/main.64680b34.chunk.css.map",
-    "static/js/2.a6c75c9f.chunk.js.LICENSE.txt": "/Portafolio/static/js/2.a6c75c9f.chunk.js.LICENSE.txt",
+    "static/css/main.a6d1ed8b.chunk.css.map": "/Portafolio/static/css/main.a6d1ed8b.chunk.css.map",
+    "static/js/2.61510287.chunk.js.LICENSE.txt": "/Portafolio/static/js/2.61510287.chunk.js.LICENSE.txt",
     "static/media/Admin-Utility-DHL.jpg": "/Portafolio/static/media/Admin-Utility-DHL.a1197721.jpg",
     "static/media/Banco.jpg": "/Portafolio/static/media/Banco.eae26e93.jpg",
     "static/media/Foto-perfil-7777.png": "/Portafolio/static/media/Foto-perfil-7777.5fe3c98f.png",
@@ -32,13 +32,14 @@
     "static/media/presentacion.jpg": "/Portafolio/static/media/presentacion.8477c902.jpg",
     "static/media/react-native.jpg": "/Portafolio/static/media/react-native.f78af1e4.jpg",
     "static/media/screencapture-buhoo.png": "/Portafolio/static/media/screencapture-buhoo.fa2f5970.png",
-    "static/media/si.png": "/Portafolio/static/media/si.00a28cd9.png"
+    "static/media/si.png": "/Portafolio/static/media/si.00a28cd9.png",
+    "static/media/whatssap.png": "/Portafolio/static/media/whatssap.f19d5384.png"
   },
   "entrypoints": [
     "static/js/runtime-main.47324fb7.js",
     "static/css/2.9f9efda8.chunk.css",
-    "static/js/2.a6c75c9f.chunk.js",
-    "static/css/main.64680b34.chunk.css",
-    "static/js/main.21f4cdf0.chunk.js"
+    "static/js/2.61510287.chunk.js",
+    "static/css/main.a6d1ed8b.chunk.css",
+    "static/js/main.c5fdbb6f.chunk.js"
   ]
 }
