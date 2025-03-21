@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/Portafolio/static/css/main.548d4aab.chunk.css",
-    "main.js": "/Portafolio/static/js/main.8e950858.chunk.js",
-    "main.js.map": "/Portafolio/static/js/main.8e950858.chunk.js.map",
+    "main.js": "/Portafolio/static/js/main.95d6b88b.chunk.js",
+    "main.js.map": "/Portafolio/static/js/main.95d6b88b.chunk.js.map",
     "runtime-main.js": "/Portafolio/static/js/runtime-main.47324fb7.js",
     "runtime-main.js.map": "/Portafolio/static/js/runtime-main.47324fb7.js.map",
     "static/css/2.9f9efda8.chunk.css": "/Portafolio/static/css/2.9f9efda8.chunk.css",
     "static/js/2.b0028dbc.chunk.js": "/Portafolio/static/js/2.b0028dbc.chunk.js",
     "static/js/2.b0028dbc.chunk.js.map": "/Portafolio/static/js/2.b0028dbc.chunk.js.map",
     "index.html": "/Portafolio/index.html",
-    "precache-manifest.bd0d6f6f9a6b3c869eb3674db93849da.js": "/Portafolio/precache-manifest.bd0d6f6f9a6b3c869eb3674db93849da.js",
+    "precache-manifest.0a2aa292cdac611fe28a28619cfa0960.js": "/Portafolio/precache-manifest.0a2aa292cdac611fe28a28619cfa0960.js",
     "service-worker.js": "/Portafolio/service-worker.js",
     "static/css/2.9f9efda8.chunk.css.map": "/Portafolio/static/css/2.9f9efda8.chunk.css.map",
     "static/css/main.548d4aab.chunk.css.map": "/Portafolio/static/css/main.548d4aab.chunk.css.map",
@@ -19,7 +19,7 @@
     "static/media/Foto-perfil-7777.png": "/Portafolio/static/media/Foto-perfil-7777.5fe3c98f.png",
     "static/media/Glew Campaing.jpg": "/Portafolio/static/media/Glew Campaing.0fcb845a.jpg",
     "static/media/Glew.jpg": "/Portafolio/static/media/Glew.882be45b.jpg",
-    "static/media/JE-Blue.png": "/Portafolio/static/media/JE-Blue.9f84ba9e.png",
+    "static/media/JE-Blue-Developer-3d.png": "/Portafolio/static/media/JE-Blue-Developer-3d.58277c0d.png",
     "static/media/Punkubiz-Contabilidad.jpg": "/Portafolio/static/media/Punkubiz-Contabilidad.0c7256db.jpg",
     "static/media/buhoo.jpg": "/Portafolio/static/media/buhoo.48e58ca6.jpg",
     "static/media/dashboard.jpg": "/Portafolio/static/media/dashboard.ffb33488.jpg",
@@ -41,6 +41,6 @@
     "static/css/2.9f9efda8.chunk.css",
     "static/js/2.b0028dbc.chunk.js",
     "static/css/main.548d4aab.chunk.css",
-    "static/js/main.8e950858.chunk.js"
+    "static/js/main.95d6b88b.chunk.js"
   ]
 }
