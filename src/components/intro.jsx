@@ -3,7 +3,7 @@ import "./styles/stars.scss";
 import Typed from "react-typed";
 import styled from "styled-components"
 import logo1 from "../img/Foto-perfil-7777.png";
-import VisitCounter from './VisitCounter';
+// import VisitCounter from './VisitCounter';
 // import HandEffect from './HandEffect';
 
 const Title = styled.h1`
@@ -127,7 +127,7 @@ class Intro extends React.Component {
                 </p>
               </div>
               <CounterContainer>
-                <VisitCounter />
+                {/* <VisitCounter /> */}
                 {/* <LikeCounter>{this.state.likes}</LikeCounter> */}
                 {/* <div style={{display: 'flex', alignItems: 'center'}}>
                   <LikeButton onClick={this.handleClick}>

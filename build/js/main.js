@@ -31,6 +31,19 @@
     return false;
   });
 
+    // Back to top button
+	$(window).scroll(function() {
+		if ($(this).scrollTop() > 100) {
+		  $('.back-to').fadeIn('slow');
+		} else {
+		  $('.back-to').fadeOut('slow');
+		}
+	  });
+	  $('.back-to').click(function(){
+		$('html, body').animate({scrollTop : 0},1500, 'easeInOutExpo');
+		return false;
+	  });
+
 	/*--/ Star ScrollTop /--*/
 	$('.scrolltop-mf').on("click", function () {
 		$('html, body').animate({

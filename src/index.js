@@ -25,6 +25,7 @@ import Intro from './components/intro.jsx';
 import About from './components/about.jsx';
 import Portfolio from './components/portfolio.jsx';
 import Contact from './components/contact.jsx';
+import FixedPlugin from './components/FixedPlugin.jsx';
 import BackToTop from './components/back-top.jsx';
 import Preloader from './components/preloader';
 
@@ -53,6 +54,7 @@ ReactDOM.render(
         <About />
         <Portfolio />
         <Contact />
+        <FixedPlugin /> {/* Agrega este componente aquí */}
         <BackToTop />
         <Preloader />
     </React.Fragment>

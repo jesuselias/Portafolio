@@ -3,6 +3,8 @@ import emailjs from '@emailjs/browser';
 import Swal from 'sweetalert2';
 import withReactContent from 'sweetalert2-react-content';
 import imageOverlay from "../img/earth.jpg";
+import { FaTiktok } from 'react-icons/fa';
+
 
 function Contact() {
   const form = useRef();
@@ -57,7 +59,7 @@ function Contact() {
 
     // Envío del formulario
     emailjs
-      .sendForm('service_y6232ba', 'template_6p557yw', form.current, 'rSi7ORVYIvUQ2JrVf')
+      .sendForm('service_nkr527i', 'template_1zb75oe', form.current, 'rSi7ORVYIvUQ2JrVf')
       .then(
         (result) => {
           if (result.text === 'OK') {
@@ -157,12 +159,11 @@ function Contact() {
                       <h5 className="title-left">Contacto</h5>
                     </div>
                     <br />
-                    <div style={{ marginLeft: '150px' }}>
+                      <div style={{ marginLeft: '17%' }}>
                         <ul className="list-ico text-left" >
                           <li><span className="ion-ios-location"></span> Venezuela Estado Lara</li>
-                          <li><span className="ion-ios-telephone"></span> +584245989356</li>
+                          <li><span className="ion-ios-telephone"></span> +584128514586</li>
                           <li><span className="ion-email"></span> jesus.e.elias.s@gmail.com</li>
-                          <li><span className="ion-email"></span> jesus_e1992@hotmail.com</li>
                         </ul>
                       </div>
                       <br />
@@ -201,6 +202,39 @@ function Contact() {
                               </span>
                             </a>
                           </li>
+                          <li>
+                            <a
+                              href="https://www.instagram.com/jesuseliasdev/"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                              <span className="ico-circle">
+                                <i className="ion-social-instagram"></i>
+                              </span>
+                            </a>
+                          </li>
+                          <li>
+                            <a
+                              href="https://www.tiktok.com/@jesuseliasdev"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                             <span className="ico-circle">
+                                <FaTiktok />
+                              </span>
+                            </a>
+                          </li>
+                          {/* <li>
+                            <a
+                              href="https://www.linkedin.com/feed/update/urn:li:activity:7291111018791936000/"
+                              target="_blank"
+                              rel="noopener noreferrer"
+                            >
+                             <span className="ico-circle">
+                                <FaMobileAlt />
+                              </span>
+                            </a>
+                          </li> */}
                         </ul>
                       </div>
                   </div>

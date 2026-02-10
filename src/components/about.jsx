@@ -8,44 +8,50 @@ class About extends React.Component {
         { 
           id: "Angular_skill", 
           content: "Angular",
-          porcentage: "90%", 
-          value: "90" 
+          porcentage: "95%", 
+          value: "95" 
         },
         {
           id: "Vue_skill",
           content: "Vue",
-          porcentage: "85%",
-          value: "85"
+          porcentage: "95%",
+          value: "95"
         },
         {
           id: "React_skill",
           content: "React",
-          porcentage: "85%",
-          value: "85"
+          porcentage: "95%",
+          value: "95"
+        },
+        {
+          id: "React_skill",
+          content: "Next",
+          porcentage: "95%",
+          value: "95"
         },
         {
           id: "React-Native_skill",
           content: "React-Native",
-          porcentage: "85%",
-          value: "85"
+          porcentage: "95%",
+          value: "95"
         },
         {
           id: "JavaScript_skill",
           content: "JavaScript",
-          porcentage: "90%",
-          value: "90"
+          porcentage: "95%",
+          value: "95"
         },
         {
           id: "TypeScript_skill",
           content: "TypeScript",
-          porcentage: "90%",
-          value: "90"
+          porcentage: "95%",
+          value: "95"
         },
         {
           id: "Java",
           content: "Java",
-          porcentage: "85%",
-          value: "85"
+          porcentage: "90%",
+          value: "90"
         },
         { 
           id: "HTML5_skill", 
@@ -56,38 +62,38 @@ class About extends React.Component {
         {
           id: "Materialize_skill",
           content: "Materialize",
-          porcentage: "85%",
-          value: "85"
+          porcentage: "90%",
+          value: "90"
         },
         {
           id: "Bootstrap_skill",
           content: "Bootstrap",
-          porcentage: "85%",
-          value: "85"
+          porcentage: "90%",
+          value: "90"
         },
         { 
           id: "CSS_skill", 
           content: "CSS", 
-          porcentage: "85%", 
-          value: "85" 
+          porcentage: "90%", 
+          value: "90" 
         },
         {
           id: "Node_skill",
           content: "Node",
-          porcentage: "70%",
-          value: "70"
+          porcentage: "90%",
+          value: "90"
         },
         {
           id: "C#_skill",
           content: "C#",
-          porcentage: "40%",
-          value: "40"
+          porcentage: "50%",
+          value: "50"
         },
         {
           id: "Wordpress_skill",
           content: "Wordpress",
-          porcentage: "80%",
-          value: "80"
+          porcentage: "90%",
+          value: "90"
         },
         {
           id: "Photoshop_skill",
@@ -100,17 +106,17 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "Innovador e implementador en el desarrollo de software dedicado al estudio, práctica y conocimiento del campo de la informática."
+            "Ingeniero en Informática apasionado por el desarrollo de software, con más de 6 años de experiencia en el desarrollo de aplicaciones web y móviles para sectores bancario, financiero y empresarial. Egresado de la Universidad Centroccidental Lisandro Alvarado (UCLA), especializado en soluciones escalables, integración de sistemas y optimización de rendimiento."
         },
         {
           id: "second-p-about",
           content:
-            "Ingeniero en Informática, Desarrollador de Software con mayor experiencia laboral en el área de Front-End; Full-Stack con experiencia en los lenguajes de programación o framework de JavaScript y TypeScript (MEAN, MERN, MEVN), Java y en aplicaciones móviles (React-Native), he trabajado en diversos sistemas de información orientados en la administración, manejo y análisis de datos. Innovador e Implementador en el desarrollo de software dedicado al estudio, práctica y conocimiento del campo de la informática, con habilidades en detección y solución de problemas."
+            "Experto en desarrollo Full Stack con dominio de tecnologías como Angular, React, Vue.js, Next.js, React Native, TypeScript, Tailwind CSS, Material-UI en frontend, y Node.js, Express.js, Java, Spring Boot, Laravel, .NET, C# en backend. Amplia experiencia en bases de datos (PostgreSQL, MySQL, MariaDB, SQL Server, MongoDB) y DevOps (Docker, Git, CI/CD, Vercel), con especialización en frameworks MEAN, MERN y MEVN."
         },
         {
           id: "third-p-about",
           content:
-            "Profesional en ingeniería informática egresado de la Universidad Centroccidental Lisandro Alvarado (UCLA)"
+            "Desarrollador innovador con experiencia en sistemas bancarios y financieros, implementación de arquitecturas escalables, liderazgo técnico en equipos ágiles y optimización de rendimiento. Destacado por su capacidad de resolución de problemas, adaptabilidad tecnológica y comunicación efectiva con equipos multidisciplinarios."
         }
       ]
     };
@@ -118,8 +124,8 @@ class About extends React.Component {
 
   render() {
     return (
-      <section id="about" className="about-mf sect-pt4 route">
-        <div className="container">
+      <section id="about" className="about-mf sect-pt4 route" >
+        <div className="container" style={{ borderRadius: '15px' }}>
           <div className="row">
             <div className="col-sm-12">
               <div className="box-shadow-full">

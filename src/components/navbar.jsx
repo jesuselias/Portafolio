@@ -1,8 +1,8 @@
 import React from "react";
 import $ from "jquery";
 
-import logo1 from "../img/in.png";
-import logo2 from "../img/in.png";
+import logo1 from "../img/JE-Blue-Developer-3d.png";
+import logo2 from "../img/JE-Blue-Developer-3d.png";
 
 class Navbar extends React.Component {
   constructor() {
@@ -86,7 +86,7 @@ class Navbar extends React.Component {
         id="mainNav"
       >
         <div className="container">
-          <a className="navbar-brand js-scroll" href="https://www.linkedin.com/in/jesus-e-elias-s-8b0345148/">
+          <a className="navbar-brand js-scroll" href="https://services-software-iota.vercel.app/">
             <img
               src={this.state.logo}
               alt="logo"
