@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1ad62ccb154f5536b67e91949e36a53b",
+    "revision": "b3aa99cf5e97c0b391005a78dac15326",
     "url": "/Portafolio/index.html"
   },
   {
-    "revision": "f436e99e503b88b62184",
+    "revision": "4d2efe7e6770c92e75f6",
     "url": "/Portafolio/static/css/2.9f9efda8.chunk.css"
   },
   {
-    "revision": "f63c4f7eee2396798b8d",
+    "revision": "fcdf4cd2660f0dbe6726",
     "url": "/Portafolio/static/css/main.548d4aab.chunk.css"
   },
   {
-    "revision": "f436e99e503b88b62184",
-    "url": "/Portafolio/static/js/2.b0028dbc.chunk.js"
+    "revision": "4d2efe7e6770c92e75f6",
+    "url": "/Portafolio/static/js/2.a32a6f28.chunk.js"
   },
   {
     "revision": "0d8b14b05bd669c52b0986b9e1634fb5",
-    "url": "/Portafolio/static/js/2.b0028dbc.chunk.js.LICENSE.txt"
+    "url": "/Portafolio/static/js/2.a32a6f28.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f63c4f7eee2396798b8d",
-    "url": "/Portafolio/static/js/main.4a8d144e.chunk.js"
+    "revision": "fcdf4cd2660f0dbe6726",
+    "url": "/Portafolio/static/js/main.e0f0c18f.chunk.js"
   },
   {
     "revision": "b602b082f5b144c4dc57",
@@ -56,6 +56,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Portafolio/static/media/Punkubiz-Contabilidad.0c7256db.jpg"
   },
   {
+    "revision": "19c20072049f5a72935298d8295c84c6",
+    "url": "/Portafolio/static/media/backoffice.19c20072.jpg"
+  },
+  {
     "revision": "48e58ca60f287407a8c2f635f4a6655f",
     "url": "/Portafolio/static/media/buhoo.48e58ca6.jpg"
   },
@@ -70,6 +74,10 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "67af05e12311bac06327b43ca31e166b",
     "url": "/Portafolio/static/media/earth.67af05e1.jpg"
+  },
+  {
+    "revision": "ef71062540cc5ba2dfa71982a165cda2",
+    "url": "/Portafolio/static/media/elearning.ef710625.jpg"
   },
   {
     "revision": "674f50d287a8c48dc19ba404d20fe713",
