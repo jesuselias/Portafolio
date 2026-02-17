@@ -146,11 +146,11 @@ class Portfolio extends React.Component {
                       <h2 className="w-title">E-Learning</h2>
                       <div className="w-more">
                         <p style={{ textAlign: 'justify', marginBottom: '7px' }}>
-                        Plataforma educativa diseñada para la gestión y consumo de cursos digitales. 
-                        Implementé un sistema de <strong>suscripciones por niveles</strong> (planes) que habilita 
-                        contenido exclusivo, junto con un panel de control para que los administradores del 
-                        Backoffice gestionen el progreso de los usuarios y la oferta académica de forma dinámica.
-                      </p>
+                          Plataforma educativa diseñada para la gestión y consumo de cursos digitales. 
+                          Potencié el panel de control mediante la <strong>generación de reportes en Excel</strong> para analítica de datos 
+                          y optimicé el flujo de acceso con un sistema de <strong>redirección de logeo desde backoffice</strong>, 
+                          asegurando la estabilidad de la plataforma mediante correcciones técnicas integrales.
+                        </p>
                         <span 
                           className="w-ctegory"
                           style={{ 
