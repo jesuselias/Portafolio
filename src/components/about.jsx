@@ -106,7 +106,7 @@ class About extends React.Component {
         {
           id: "first-p-about",
           content:
-            "Ingeniero en Informática apasionado por el desarrollo de software, con más de 6 años de experiencia en el desarrollo de aplicaciones web y móviles para sectores bancario, financiero y empresarial. Egresado de la Universidad Centroccidental Lisandro Alvarado (UCLA), especializado en soluciones escalables, integración de sistemas y optimización de rendimiento."
+            "Ingeniero en Informática apasionado por el desarrollo de software, con más de 7 años de experiencia en el desarrollo de aplicaciones web y móviles para sectores bancario, financiero y empresarial. Egresado de la Universidad Centroccidental Lisandro Alvarado (UCLA), especializado en soluciones escalables, integración de sistemas y optimización de rendimiento."
         },
         {
           id: "second-p-about",
