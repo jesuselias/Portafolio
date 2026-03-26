@@ -77,7 +77,7 @@ class Portfolio extends React.Component {
                                           color: '#000000',
                                           fontSize: '1.1em'
                                       }}>
-                                      tech: MERN (MnongDB,Express,React,Node), entre otras..
+                                      tech: MERN (MongoDB,Express,React,Node), entre otras..
                                   </span>
                               </div>
                           </div>
