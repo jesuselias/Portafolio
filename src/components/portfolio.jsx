@@ -18,6 +18,7 @@ import banco from "../img/Banco.jpg";
 import web from '../img/web-servicios.jpg'
 import backoffice from '../img/backoffice.jpg'
 import elearning from '../img/elearning.jpg'
+import edeliStore from '../img/dashboard_edelistore.jpeg';
 
 class Portfolio extends React.Component {
   render() {
@@ -36,6 +37,61 @@ class Portfolio extends React.Component {
             </div>
           </div>
           <div className="row">
+            <div className="col-md-4">
+          <div className="work-box" style={{ borderRadius: '15px' }}>
+                  <div className="work-img">
+                      <a href={edeliStore} data-lightbox="gallery-web">
+                          <img src={edeliStore} alt="" className="img-fluid" style={{ borderRadius: '15px' }} />
+                      </a>
+                  </div>
+                  <div className="work-content">
+                      <div className="row">
+                          <div className="col-sm-8">
+                              <h2 className="w-title">Edelí Store</h2>
+                              <div className="w-more">
+                                  <p>
+
+                                  Es un ecosistema digital diseñado para evolucionar desde un catálogo interactivo hacia una plataforma 
+                                  de comercio electrónico completa, integrando un potente sistema de administración
+                                   y, a futuro, una billetera digital nativa.
+                                   
+                                  </p>
+                                  <div style={{ marginTop: '5px' }}>
+                                      <a 
+                                          className="w-ctegory" 
+                                          href="https://edelistore.pages.dev/"
+                                          onClick={(e) => {
+                                              e.preventDefault();
+                                              window.open('https://edelistore.pages.dev/', '_blank');
+                                          }}
+                                      >
+                                          Visitar sitio
+                                      </a>
+                                  </div>
+                                  <br />
+                                  <span 
+                                    className="w-ctegory" 
+                                    style={{ 
+                                          marginTop: '5px',
+                                          fontWeight: 'bold',
+                                          color: '#000000',
+                                          fontSize: '1.1em'
+                                      }}>
+                                      tech: MERN (MnongDB,Express,React,Node), entre otras..
+                                  </span>
+                              </div>
+                          </div>
+                          <div className="col-sm-4">
+                              <div className="w-like">
+                              <a href={web} data-lightbox="gallery-web">
+                                  <span className="ion-ios-plus-outline"></span>
+                              </a>
+                              </div>
+                          </div>
+                      </div>
+                  </div>
+              </div>
+          </div>
           <div className="col-md-4">
           <div className="work-box" style={{ borderRadius: '15px' }}>
                   <div className="work-img">
