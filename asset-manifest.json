@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/Portafolio/static/css/main.548d4aab.chunk.css",
-    "main.js": "/Portafolio/static/js/main.17ae962a.chunk.js",
-    "main.js.map": "/Portafolio/static/js/main.17ae962a.chunk.js.map",
+    "main.js": "/Portafolio/static/js/main.869a992c.chunk.js",
+    "main.js.map": "/Portafolio/static/js/main.869a992c.chunk.js.map",
     "runtime-main.js": "/Portafolio/static/js/runtime-main.47324fb7.js",
     "runtime-main.js.map": "/Portafolio/static/js/runtime-main.47324fb7.js.map",
     "static/css/2.9f9efda8.chunk.css": "/Portafolio/static/css/2.9f9efda8.chunk.css",
-    "static/js/2.a32a6f28.chunk.js": "/Portafolio/static/js/2.a32a6f28.chunk.js",
-    "static/js/2.a32a6f28.chunk.js.map": "/Portafolio/static/js/2.a32a6f28.chunk.js.map",
+    "static/js/2.dfb36ed9.chunk.js": "/Portafolio/static/js/2.dfb36ed9.chunk.js",
+    "static/js/2.dfb36ed9.chunk.js.map": "/Portafolio/static/js/2.dfb36ed9.chunk.js.map",
     "index.html": "/Portafolio/index.html",
-    "precache-manifest.8a9d6aed53882ab475936149131dcb48.js": "/Portafolio/precache-manifest.8a9d6aed53882ab475936149131dcb48.js",
+    "precache-manifest.16404662093fc9f0c866f060f38bfef5.js": "/Portafolio/precache-manifest.16404662093fc9f0c866f060f38bfef5.js",
     "service-worker.js": "/Portafolio/service-worker.js",
     "static/css/2.9f9efda8.chunk.css.map": "/Portafolio/static/css/2.9f9efda8.chunk.css.map",
     "static/css/main.548d4aab.chunk.css.map": "/Portafolio/static/css/main.548d4aab.chunk.css.map",
-    "static/js/2.a32a6f28.chunk.js.LICENSE.txt": "/Portafolio/static/js/2.a32a6f28.chunk.js.LICENSE.txt",
+    "static/js/2.dfb36ed9.chunk.js.LICENSE.txt": "/Portafolio/static/js/2.dfb36ed9.chunk.js.LICENSE.txt",
     "static/media/Admin-Utility-DHL.jpg": "/Portafolio/static/media/Admin-Utility-DHL.a1197721.jpg",
     "static/media/Banco.jpg": "/Portafolio/static/media/Banco.eae26e93.jpg",
     "static/media/Foto-perfil-7777.png": "/Portafolio/static/media/Foto-perfil-7777.5fe3c98f.png",
@@ -25,6 +25,7 @@
     "static/media/buhoo.jpg": "/Portafolio/static/media/buhoo.48e58ca6.jpg",
     "static/media/dashboard.jpg": "/Portafolio/static/media/dashboard.ffb33488.jpg",
     "static/media/dashboard2.jpg": "/Portafolio/static/media/dashboard2.a40216a1.jpg",
+    "static/media/dashboard_edelistore.jpeg": "/Portafolio/static/media/dashboard_edelistore.73c1a056.jpeg",
     "static/media/earth.jpg": "/Portafolio/static/media/earth.67af05e1.jpg",
     "static/media/elearning.jpg": "/Portafolio/static/media/elearning.ef710625.jpg",
     "static/media/font-awesome.css": "/Portafolio/static/media/fontawesome-webfont.fee66e71.woff",
@@ -41,8 +42,8 @@
   "entrypoints": [
     "static/js/runtime-main.47324fb7.js",
     "static/css/2.9f9efda8.chunk.css",
-    "static/js/2.a32a6f28.chunk.js",
+    "static/js/2.dfb36ed9.chunk.js",
     "static/css/main.548d4aab.chunk.css",
-    "static/js/main.17ae962a.chunk.js"
+    "static/js/main.869a992c.chunk.js"
   ]
 }
